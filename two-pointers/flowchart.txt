@@ -1,0 +1,17 @@
+Intution -
+1. Array/Linked List
+2. Sorted/help from sorting
+3. Merge/Remove duplicate/rearrange
+4. cycle in linked List
+5. pair/triplets/quadruple 
+
+
+sample question:
+
+if question ask no. sorting works
+if it asks index sorting don't work
+
+A. two sum (a+b = target) 
+B. Remove duplicates from sorted array - inorder(nospace)
+C. Squaring a sorted array
+D. Merge Sorted Arrays
